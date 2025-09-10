@@ -13,7 +13,7 @@ Type in a number and press Enter.
 The output will tell you whether the number you entered is even or odd.
 
 
-# task2.py
+# task 2
 This Python script calculates the sum of all integers from 1 to 50.
 
 How it Works
